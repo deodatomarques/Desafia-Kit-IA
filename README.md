@@ -1,4 +1,4 @@
-# Meu Kit de IA
+Meu Kit de IA
 
 Desafio de Projeto da [DIO](https://dio.me): monte o seu kit de IA para o dia a dia e delegue uma tarefa real, com você no comando.
 
